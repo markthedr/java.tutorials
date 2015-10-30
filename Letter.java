@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+public class Letter{
+
 public static void main(String[] args){
 		String name, present, yourName;
 		int age;
@@ -19,4 +21,5 @@ public static void main(String[] args){
 		System.out.println("thank you for the " + present);
 		System.out.println("I've just turned " + age + " old");
 		System.out.println("Sincerly " + yourName);
+}
 }
