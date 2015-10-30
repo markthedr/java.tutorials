@@ -1,1 +1,0 @@
-Place to put all my java tutorial code and other things to improve on as projects.
