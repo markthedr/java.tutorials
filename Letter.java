@@ -15,17 +15,7 @@ public static void main(String[] args){
 		System.out.print("What is your name? : ");
 		yourName = inputString.nextLine();		
 		System.out.println();
-		System.out.println();
-		System.out.println();
-
-		System.out.println("Dear" + name + ",");
-		System.out.println("thank you for the" + present);
-		System.out.println("I'm already" + age + "old");
-		System.out.println("being" + (age-1) + " ");
-		System.out.println("Sincerly" + yourName);
-	}
-		
-}		System.out.println("Dear " + name + ",");
+		System.out.println("Dear " + name + ",");
 		System.out.println("thank you for the " + present);
 		System.out.println("I've just turned " + age + " old");
 		System.out.println("Sincerly " + yourName);
